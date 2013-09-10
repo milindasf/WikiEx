@@ -1,0 +1,1013 @@
+8/26/13 12:35:22 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/26/13 12:35:23 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+12:35:23.148 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+12:35:23.209 [main] INFO  neo4j.datasource - Creating new db @ /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore
+12:35:23.466 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=912258b mappedMem=91226112b (storeSize=0b)
+12:35:23.528 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db hit=1 miss=0 switches=0 ooe=0
+12:35:24.917 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+12:35:24.924 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+12:35:24.994 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+12:35:25.124 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+12:35:25.251 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+12:35:25.252 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+12:35:25.254 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=128b)
+12:35:25.255 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=1026b mappedMem=1048576b (storeSize=38b)
+12:35:25.258 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=10485b mappedMem=1048576b (storeSize=0b)
+12:35:25.261 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+12:35:25.266 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=3303001b mappedMem=330301440b (storeSize=0b)
+12:35:25.268 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=4047483b mappedMem=404750336b (storeSize=0b)
+12:35:25.268 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=9b)
+12:35:25.269 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+12:35:25.335 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+12:35:25.461 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+12:35:25.598 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+12:35:25.743 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+12:35:25.861 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+12:35:26.011 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+12:35:26.139 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+12:35:26.250 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+12:35:26.385 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+12:35:26.550 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore hit=0 miss=8 switches=0 ooe=0
+12:35:26.656 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+12:35:26.657 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+12:35:26.657 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=128b)
+12:35:26.658 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=1026b mappedMem=1048576b (storeSize=38b)
+12:35:26.658 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=10485b mappedMem=1048576b (storeSize=0b)
+12:35:26.659 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+12:35:26.659 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=3303001b mappedMem=330301440b (storeSize=0b)
+12:35:26.660 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=4047483b mappedMem=404750336b (storeSize=0b)
+12:35:26.660 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=9b)
+12:35:26.661 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+12:35:26.675 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=0, lastTxId=1 (clean)
+8/26/13 12:35:27 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/26/13 12:35:27 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/26/13 12:35:27 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+8/26/13 12:35:27 PM org.neo4j.server.AbstractNeoServer INFO: No SSL certificate found, generating a self-signed certificate..
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/26/13 12:35:28 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/26/13 12:35:28 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/26/13 12:35:28 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/26/13 12:35:28 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/26/13 12:35:28 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/26/13 12:35:28 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+12:35:28.867 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/26/13 12:35:28 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+12:35:28.915 [main] INFO  org.mortbay.log - jetty-6.1.25
+12:35:28.983 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+12:35:30.511 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+12:35:30.612 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/26/13 12:35:30 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@12d0430
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@c41a30
+8/26/13 8:50:15 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/26/13 8:50:16 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+20:50:16.235 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+20:50:16.316 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names non clean shutdown detected
+20:50:16.335 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+20:50:16.338 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db non clean shutdown detected
+20:50:16.338 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+20:50:16.350 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings non clean shutdown detected
+20:50:16.351 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=128b)
+20:50:16.352 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys non clean shutdown detected
+20:50:16.353 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=1026b mappedMem=1048576b (storeSize=38b)
+20:50:16.356 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index non clean shutdown detected
+20:50:16.356 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=10485b mappedMem=1048576b (storeSize=0b)
+20:50:16.359 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays non clean shutdown detected
+20:50:16.359 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+20:50:16.376 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db non clean shutdown detected
+20:50:16.376 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=3303001b mappedMem=330301440b (storeSize=0b)
+20:50:16.378 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db non clean shutdown detected
+20:50:16.378 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=4047483b mappedMem=404750336b (storeSize=0b)
+20:50:16.390 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db non clean shutdown detected
+20:50:16.390 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=1 brickSize=91224b mappedMem=91226112b (storeSize=91224b)
+20:50:16.404 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore non clean shutdown detected
+20:50:16.404 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+20:50:16.419 [main] INFO  neo4j.xafactory - Non clean shutdown detected on log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1]. Recovery started ...
+20:50:16.423 [main] INFO  neo4j.xafactory - [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] logVersion=0 with committed tx=1
+20:50:16.423 [main] INFO  neo4j.xafactory - [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] entries found=0 lastEntryPos=16
+20:50:16.424 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=0, lastTxId=-1 (recovered)
+20:50:16.424 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] sorting 0 xids
+20:50:16.425 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] checkRecoveryComplete 0 xids
+20:50:16.597 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names rebuild id generator, highId=1 defragged count=0
+20:50:16.830 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys rebuild id generator, highId=1 defragged count=0
+20:50:16.986 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index rebuild id generator, highId=1 defragged count=0
+20:50:17.101 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings rebuild id generator, highId=1 defragged count=0
+20:50:17.209 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays rebuild id generator, highId=1 defragged count=0
+20:50:17.343 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db rebuild id generator, highId=1 defragged count=0
+20:50:17.479 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db rebuild id generator, highId=1 defragged count=0
+20:50:17.799 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db rebuild id generator, highId=1 defragged count=0
+20:50:17.944 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore rebuild id generator, highId=6 defragged count=0
+20:50:18.010 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] recovery completed.
+20:50:18.011 [main] INFO  neo4j.xafactory - Recovery on log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] completed.
+8/26/13 8:50:18 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/26/13 8:50:18 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/26/13 8:50:18 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/26/13 8:50:19 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/26/13 8:50:19 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/26/13 8:50:19 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/26/13 8:50:19 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/26/13 8:50:19 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/26/13 8:50:19 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+20:50:19.971 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/26/13 8:50:19 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+20:50:20.048 [main] INFO  org.mortbay.log - jetty-6.1.25
+20:50:20.174 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+20:50:21.802 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+20:50:21.891 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/26/13 8:50:21 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f1a3a8
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@9e5e21
+20:57:24.532 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+20:57:24.539 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/26/13 8:57:53 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/26/13 8:57:54 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+20:57:54.434 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+20:57:54.512 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+20:57:54.515 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+20:57:54.516 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+20:57:54.516 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1140b)
+20:57:54.518 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=261b)
+20:57:54.519 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+20:57:54.522 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3649b)
+20:57:54.524 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=594b)
+20:57:54.525 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=180b)
+20:57:54.526 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+20:57:54.546 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=1, lastTxId=21 (clean)
+8/26/13 8:57:55 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/26/13 8:57:55 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/26/13 8:57:55 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/26/13 8:57:55 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/26/13 8:57:55 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/26/13 8:57:55 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/26/13 8:57:55 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/26/13 8:57:55 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/26/13 8:57:56 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+20:57:56.087 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/26/13 8:57:56 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+20:57:56.163 [main] INFO  org.mortbay.log - jetty-6.1.25
+20:57:56.255 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+20:57:57.865 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+20:57:57.972 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/26/13 8:57:57 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@dbf79d
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@ca1465
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@dbf79d
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) return n;
+21:38:23.506 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+21:38:23.508 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/27/13 11:02:42 AM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/27/13 11:02:42 AM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+11:02:42.977 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+11:02:43.076 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+11:02:43.079 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+11:02:43.096 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+11:02:43.097 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1140b)
+11:02:43.098 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=261b)
+11:02:43.099 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+11:02:43.102 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3649b)
+11:02:43.104 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=594b)
+11:02:43.106 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=180b)
+11:02:43.108 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+11:02:43.137 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=2, lastTxId=21 (clean)
+8/27/13 11:02:44 AM org.neo4j.server.database.Database INFO: Successfully started database
+8/27/13 11:02:44 AM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/27/13 11:02:44 AM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/27/13 11:02:45 AM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/27/13 11:02:45 AM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/27/13 11:02:45 AM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/27/13 11:02:45 AM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/27/13 11:02:45 AM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/27/13 11:02:45 AM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+11:02:45.437 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/27/13 11:02:45 AM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+11:02:45.528 [main] INFO  org.mortbay.log - jetty-6.1.25
+11:02:45.618 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+11:02:47.075 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+11:02:47.156 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/27/13 11:02:47 AM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@ffa9d8
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data RETURN data
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINE] ;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.12" AND data.timestamp<"2013-07-23 12:15:23.23" AND data.datapoint_name="datapoint_1" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.12" AND data.timestamp<"2013-07-23 12:15:23.23" AND data.datapoint_name="datapoint_1" RETURN data.datapoint_name AS datapoint;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ad4feb
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.12" AND data.timestamp<"2013-07-23 12:15:23.23" AND data.datapoint_name="datapoint_1" RETURN DISTINCT data.datapoint_name AS datapoint;
+11:13:26.159 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+11:13:26.161 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/27/13 1:57:52 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/27/13 1:57:53 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+13:57:53.441 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+13:57:53.537 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+13:57:53.541 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+13:57:53.557 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+13:57:53.558 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1140b)
+13:57:53.559 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=261b)
+13:57:53.561 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+13:57:53.564 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3649b)
+13:57:53.566 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=594b)
+13:57:53.579 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=180b)
+13:57:53.581 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+13:57:53.609 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=3, lastTxId=21 (clean)
+8/27/13 1:57:54 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/27/13 1:57:54 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/27/13 1:57:54 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/27/13 1:57:55 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/27/13 1:57:55 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/27/13 1:57:55 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/27/13 1:57:55 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/27/13 1:57:55 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/27/13 1:57:55 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+13:57:55.988 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/27/13 1:57:56 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+13:57:56.065 [main] INFO  org.mortbay.log - jetty-6.1.25
+13:57:56.142 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+13:57:57.877 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+13:57:57.980 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/27/13 1:57:57 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@12c08c7
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@ed3007
+8/27/13 6:41:04 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/27/13 6:41:04 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+18:41:05.093 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+18:41:05.192 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names non clean shutdown detected
+18:41:05.214 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+18:41:05.218 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db non clean shutdown detected
+18:41:05.218 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+18:41:05.219 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings non clean shutdown detected
+18:41:05.220 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+18:41:05.222 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys non clean shutdown detected
+18:41:05.222 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=2 brickSize=1026b mappedMem=1048576b (storeSize=2052b)
+18:41:05.226 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index non clean shutdown detected
+18:41:05.227 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=1 brickSize=1044b mappedMem=1048576b (storeSize=1044b)
+18:41:05.229 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays non clean shutdown detected
+18:41:05.229 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+18:41:05.239 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db non clean shutdown detected
+18:41:05.240 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3649b)
+18:41:05.242 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db non clean shutdown detected
+18:41:05.243 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=594b)
+18:41:05.245 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db non clean shutdown detected
+18:41:05.245 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=1 brickSize=91224b mappedMem=91226112b (storeSize=91224b)
+18:41:05.248 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore non clean shutdown detected
+18:41:05.248 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+18:41:05.273 [main] INFO  neo4j.xafactory - Non clean shutdown detected on log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1]. Recovery started ...
+18:41:05.278 [main] INFO  neo4j.xafactory - [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] logVersion=3 with committed tx=21
+18:41:05.279 [main] INFO  neo4j.xafactory - [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] entries found=0 lastEntryPos=16
+18:41:05.280 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=3, lastTxId=-1 (recovered)
+18:41:05.280 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] sorting 0 xids
+18:41:05.281 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] checkRecoveryComplete 0 xids
+18:41:05.478 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names rebuild id generator, highId=4 defragged count=0
+18:41:05.716 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys rebuild id generator, highId=30 defragged count=0
+18:41:05.828 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index rebuild id generator, highId=29 defragged count=0
+18:41:05.947 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings rebuild id generator, highId=2 defragged count=0
+18:41:06.058 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays rebuild id generator, highId=1 defragged count=0
+18:41:06.195 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db rebuild id generator, highId=89 defragged count=0
+18:41:06.303 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db rebuild id generator, highId=18 defragged count=0
+18:41:06.595 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db rebuild id generator, highId=20 defragged count=0
+18:41:06.704 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore rebuild id generator, highId=6 defragged count=0
+18:41:06.755 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] recovery completed.
+18:41:06.756 [main] INFO  neo4j.xafactory - Recovery on log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] completed.
+8/27/13 6:41:07 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/27/13 6:41:07 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/27/13 6:41:07 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/27/13 6:41:08 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/27/13 6:41:08 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/27/13 6:41:08 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/27/13 6:41:08 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/27/13 6:41:08 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/27/13 6:41:08 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+18:41:08.903 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/27/13 6:41:08 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+18:41:08.994 [main] INFO  org.mortbay.log - jetty-6.1.25
+18:41:09.075 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+18:41:10.814 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+18:41:10.903 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/27/13 6:41:10 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@453c47
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@72cbb9
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@453c47
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.12" AND data.timestamp<"2013-07-23 12:15:23.23" AND data.datapoint_name="datapoint_1" RETURN DISTINCT data.datapoint_name AS datapoint;"
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@453c47
+Logger not configured, logging to std out instead: [FINE] ;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@453c47
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.12" AND data.timestamp<"2013-07-23 12:15:23.23" AND data.datapoint_name="datapoint_1" RETURN DISTINCT data.datapoint_name AS datapoint;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@453c47
+Logger not configured, logging to std out instead: [FINE] start n=Node(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.12" AND data.timestamp<"2013-07-23 12:15:23.23" AND data.datapoint_name="datapoint_1" RETURN COUNT(data) AS count;
+20:10:46.956 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+20:10:46.967 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/27/13 8:54:12 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/27/13 8:54:13 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+20:54:13.330 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+20:54:13.417 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+20:54:13.421 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+20:54:13.422 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+20:54:13.422 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1140b)
+20:54:13.424 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=261b)
+20:54:13.425 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+20:54:13.428 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3649b)
+20:54:13.430 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=594b)
+20:54:13.431 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=180b)
+20:54:13.432 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+20:54:13.452 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=4, lastTxId=21 (clean)
+8/27/13 8:54:14 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/27/13 8:54:14 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/27/13 8:54:14 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/27/13 8:54:14 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/27/13 8:54:14 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/27/13 8:54:14 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/27/13 8:54:14 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/27/13 8:54:14 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/27/13 8:54:14 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+20:54:14.997 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/27/13 8:54:15 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+20:54:15.058 [main] INFO  org.mortbay.log - jetty-6.1.25
+20:54:15.174 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+20:54:16.905 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+20:54:17.010 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/27/13 8:54:17 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] CREATE n={name:peter, age:21 ,sex:male};
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] CREATE n={name:'peter', age:'21' ,sex:'male'};
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] CREATE n={name:'slimer', age:'22' ,sex:'male'};
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] CREATE n={name:'winston', age:'20' ,sex:'male'};
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] CREATE n={name:'egon', age:'20' ,sex:'male'};
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] CREATE n={name:'ray', age:'20' ,sex:'male'};
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] start n=Node(0) MATCH n-[:]->data return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] start n=Node(21)
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] return n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] start n=Node(20)
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] return ;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] start n=Node(20)
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] return n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] start n=Node(*) return n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START n=NODE(*) RETURN n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START n=NODE(*) RETURN n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START a=NODE(20) ,b=NODE(21) CREATE a-[r:knows]->b RETURN r;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START a=NODE(24) ,b=NODE(23) CREATE a-[r:knows]->b RETURN r; START a=NODE(24) ,b=NODE(22) CREATE a-[r:knows]->b RETURN r; START a=NODE(22) ,b=NODE(21) CREATE a-[r:knows]->b RETURN r;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START a=NODE(24) ,b=NODE(23) CREATE a-[r:knows]->b RETURN r;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START a=NODE(24) ,b=NODE(22) CREATE a-[r:knows]->b RETURN r;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START a=NODE(22) ,b=NODE(21) CREATE a-[r:knows]->b RETURN r;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START n=NODE(24) MATCH n-[:knows]-friend RETURN friend;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START n=NODE(24) MATCH n-[:knows]-()-[:knows]->friend RETURN friend;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@17777a1
+Logger not configured, logging to std out instead: [FINE] START n=NODE(24) MATCH n-[:knows]-()-[:knows]->friend RETURN friend;
+8/28/13 12:57:21 AM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+00:57:21.163 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+00:57:21.164 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/29/13 12:40:55 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/29/13 12:40:56 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+12:40:56.204 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+12:40:56.325 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+12:40:56.331 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+12:40:56.342 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+12:40:56.343 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1216b)
+12:40:56.345 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=279b)
+12:40:56.348 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+12:40:56.353 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3854b)
+12:40:56.357 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=726b)
+12:40:56.360 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=225b)
+12:40:56.361 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+12:40:56.401 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=5, lastTxId=31 (clean)
+8/29/13 12:40:57 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/29/13 12:40:57 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/29/13 12:40:57 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/29/13 12:40:58 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/29/13 12:40:58 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/29/13 12:40:58 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/29/13 12:40:58 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/29/13 12:40:58 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/29/13 12:40:58 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+12:40:58.819 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/29/13 12:40:58 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+12:40:58.900 [main] INFO  org.mortbay.log - jetty-6.1.25
+12:40:59.013 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+12:41:00.815 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+12:41:00.911 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/29/13 12:41:00 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@6f83e2
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN COUNT(data) AS count;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN COUNT(data) AS count;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN COUNT(data) AS count;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN DISTINCT data.datapoint_name AS datapoint_name;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN data.timestamp ORDER BY data.timestamp DESC;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN data ORDER BY data.timestamp DESC;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN data ORDER BY data.timestamp DESC LIMIT 1;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1ec4535
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]->data WHERE data.timestamp<="2013-07-23 12:15:45.45" AND data.datapoint_name="datapoint_1" RETURN data ORDER BY data.timestamp DESC LIMIT 1;
+14:49:49.437 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+14:49:49.440 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/29/13 10:16:58 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/29/13 10:16:59 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+22:16:59.654 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+22:16:59.764 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+22:16:59.777 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+22:16:59.792 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+22:16:59.808 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1216b)
+22:16:59.810 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=279b)
+22:16:59.812 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+22:16:59.816 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3854b)
+22:16:59.821 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=726b)
+22:16:59.824 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=225b)
+22:16:59.852 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+22:16:59.893 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=6, lastTxId=31 (clean)
+8/29/13 10:17:01 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/29/13 10:17:01 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/29/13 10:17:01 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/29/13 10:17:02 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/29/13 10:17:02 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/29/13 10:17:02 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/29/13 10:17:02 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/29/13 10:17:02 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/29/13 10:17:02 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+22:17:02.559 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/29/13 10:17:02 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+22:17:02.638 [main] INFO  org.mortbay.log - jetty-6.1.25
+22:17:02.720 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+22:17:04.491 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+22:17:04.572 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/29/13 10:17:04 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@1a5678
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[HasData]->data WHERE data.timestamp
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] ;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] clear
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]-data data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:56.56" AND data.datapoint_name="datapoint_1" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@e776f7
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]-data WHERE data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:56.56" AND data.datapoint_name="datapoint_1" RETURN data;
+8/29/13 11:41:18 PM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+23:41:18.661 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+23:41:18.663 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/30/13 7:12:29 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/30/13 7:12:29 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+19:12:29.907 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+19:12:30.029 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+19:12:30.034 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+19:12:30.045 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+19:12:30.062 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1216b)
+19:12:30.064 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=279b)
+19:12:30.081 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+19:12:30.084 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3854b)
+19:12:30.087 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=726b)
+19:12:30.089 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=225b)
+19:12:30.090 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+19:12:30.125 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=7, lastTxId=31 (clean)
+8/30/13 7:12:31 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/30/13 7:12:31 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/30/13 7:12:31 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/30/13 7:12:32 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/30/13 7:12:32 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/30/13 7:12:32 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/30/13 7:12:32 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/30/13 7:12:32 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/30/13 7:12:32 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+19:12:32.444 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/30/13 7:12:32 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+19:12:32.527 [main] INFO  org.mortbay.log - jetty-6.1.25
+19:12:32.612 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+19:12:34.267 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+19:12:34.372 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/30/13 7:12:34 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@51ddd2
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(5) RETURN a,b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(5) RETURN a , b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(5) RETURN a and b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] clear
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(5) RETURN b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(10) RETURN b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(15) RETURN b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(14) RETURN b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(*) RETURN b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) RETURN b;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) MATCH a-[:HasData]->data_a AND b-[:HasData]-data_b WHERE data_a.timestamp>="2013-07-23 12:12:12.23" AND data_a.timestamp<="2013-07-23 12:15:45.34" AND data_b.timestamp>="2013-07-23 12:12:12.12" AND data_b.timestamp<="2013-07-23 12:15:45.34" RETURN *;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) MATCH a-[:HasData]->data_a AND b-[:HasData]-data_b WHERE data_a.timestamp>="2013-07-23 12:12:12.23" AND data_a.timestamp<="2013-07-23 12:15:45.34" AND data_b.timestamp>="2013-07-23 12:12:12.12" AND data_b.timestamp<="2013-07-23 12:15:45.34" RETURN (*);
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) MATCH a-[:HasData]->data_a AND b-[:HasData]-data_b WHERE data_a.timestamp>="2013-07-23 12:12:12.23" AND data_a.timestamp<="2013-07-23 12:15:45.34" AND data_b.timestamp>="2013-07-23 12:12:12.12" AND data_b.timestamp<="2013-07-23 12:15:45.34" RETURN data_a;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6)  RETURN a;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) MATCH a-[:HasData]->data_a AND b-[:HasData]->data_b WHERE data_a.timestamp>="2013-07-23 12:12:12.23" AND data_a.timestamp<="2013-07-23 12:15:45.34" AND data_b.timestamp>="2013-07-23 12:12:12.12" AND data_b.timestamp<="2013-07-23 12:15:45.34" RETURN data_a;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) MATCH a-[:HasData]->data_a , b-[:HasData]->data_b WHERE data_a.timestamp>="2013-07-23 12:12:12.23" AND data_a.timestamp<="2013-07-23 12:15:45.34" AND data_b.timestamp>="2013-07-23 12:12:12.12" AND data_b.timestamp<="2013-07-23 12:15:45.34" RETURN data_a;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@156e0b4
+Logger not configured, logging to std out instead: [FINE] START a=NODE(4) , b=NODE(6) MATCH a-[:HasData]->data_a , b-[:HasData]->data_b WHERE data_a.timestamp>="2013-07-23 12:12:12.23" AND data_a.timestamp<="2013-07-23 12:15:45.34" AND data_b.timestamp>="2013-07-23 12:12:12.12" AND data_b.timestamp<="2013-07-23 12:15:45.34" RETURN data_a,data_b;
+8/30/13 9:51:43 PM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+21:51:43.203 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+21:51:43.204 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+8/31/13 11:03:28 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+8/31/13 11:03:28 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+23:03:28.955 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+23:03:29.055 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+23:03:29.069 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+23:03:29.083 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+23:03:29.100 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1216b)
+23:03:29.102 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=279b)
+23:03:29.104 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+23:03:29.107 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3854b)
+23:03:29.110 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=726b)
+23:03:29.111 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=225b)
+23:03:29.113 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+23:03:29.139 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=8, lastTxId=31 (clean)
+8/31/13 11:03:30 PM org.neo4j.server.database.Database INFO: Successfully started database
+8/31/13 11:03:30 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+8/31/13 11:03:30 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+8/31/13 11:03:31 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+8/31/13 11:03:31 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+8/31/13 11:03:31 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+8/31/13 11:03:31 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+8/31/13 11:03:31 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+8/31/13 11:03:31 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+23:03:31.443 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+8/31/13 11:03:31 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+23:03:31.526 [main] INFO  org.mortbay.log - jetty-6.1.25
+23:03:31.620 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+23:03:33.158 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+23:03:33.280 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+8/31/13 11:03:33 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+8/31/13 11:03:59 PM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+23:03:59.620 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+23:03:59.620 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+9/5/13 9:04:08 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+9/5/13 9:04:08 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+21:04:08.785 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+21:04:08.894 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+21:04:08.899 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+21:04:08.911 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+21:04:08.928 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1216b)
+21:04:08.930 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=279b)
+21:04:08.933 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+21:04:08.936 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3854b)
+21:04:08.938 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=726b)
+21:04:08.940 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=225b)
+21:04:08.941 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+21:04:08.967 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=9, lastTxId=31 (clean)
+9/5/13 9:04:10 PM org.neo4j.server.database.Database INFO: Successfully started database
+9/5/13 9:04:10 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+9/5/13 9:04:10 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+9/5/13 9:04:11 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+9/5/13 9:04:11 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+9/5/13 9:04:11 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+9/5/13 9:04:11 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+9/5/13 9:04:11 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+9/5/13 9:04:11 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+21:04:11.546 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+9/5/13 9:04:11 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+21:04:11.666 [main] INFO  org.mortbay.log - jetty-6.1.25
+21:04:11.735 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+21:04:13.317 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+21:04:13.415 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+9/5/13 9:04:13 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@c0b3d1
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(5) RETURN dp_1,dp_2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(5) RETURN dp_1 AS data,dp_2 AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START n=NODE(*) RETURN n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) RETURN dp_1 AS data,dp_2 AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 as data, data2 AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 as data, data2 AS data ORDER BY data.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1, data2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN (data1, data2) AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN (data1, data2);
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 AS data, data2 AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1, data2 ORDER BY data1.timestamp,data2.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1, data2 ORDER BY data1.timestamp,data2.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1, data2 ORDER BY data1.timestamp,data2.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1, data2 ORDER BY data1.timestamp,data2.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data dp_2-[:HasData]->data2 WITH data2 AS data WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data ORDER BY data1.timestamp,data2.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data dp_2-[:HasData]->data2 WITH data2 AS data WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data dp_2-[:HasData]->data2 WITH data2 AS data WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data dp_2-[:HasData]->data2 WITH data2 AS data WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data$;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data dp_2-[:HasData]->data2 WITH data2 AS data WHERE data.timestamp>="2013-07-23 12:12:12.23" AND data.timestamp<="2013-07-23 12:15:56.45" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data dp_2-[:HasData]->data2 WITH data2 AS data WHERE data.timestamp>="2013-07-23 12:12:12.23" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS dataWHERE data.timestamp>="2013-07-23 12:12:12.23" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1 WITH data1 AS data WHERE data.timestamp>="2013-07-23 12:12:12.23" RETURN data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 AS data, data2 AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 AS data, data2 AS data ORDER BY data.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1,data2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 JOIN data2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN COLLECT(data1) + COLLECT(data2) AS data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN COLLECT(data1) + COLLECT(data2) AS data ORDER BY data.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN COLUMN(data1) + COLUMN(data2) AS data ORDER BY data.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN data1 + data2 AS data ;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN [data1] + [data2] AS data ;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN [data1] + [data2] AS data ORDER BY data.timestamp;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" WITH data1,data2 RETURN data1,data2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN DISTINCT data1, DISTINCT data2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN DISTINCT data1,data2;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN DISTINCT data1;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@f6ae1c
+Logger not configured, logging to std out instead: [FINE] START dp_1=NODE(4) , dp_2=NODE(6) MATCH dp_1-[:HasData]->data1,dp_2-[:HasData]->data2 WHERE data1.timestamp>="2013-07-23 12:12:12.23" AND data1.timestamp<="2013-07-23 12:15:56.45" AND data2.timestamp>="2013-07-23 12:12:12.23" AND data2.timestamp<="2013-07-23 12:15:56.45" RETURN DISTINCT data2;
+9/6/13 7:58:57 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+9/6/13 7:58:58 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+19:58:58.462 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+19:58:58.555 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names non clean shutdown detected
+19:58:58.573 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+19:58:58.578 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db non clean shutdown detected
+19:58:58.578 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+19:58:58.589 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings non clean shutdown detected
+19:58:58.589 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=1 brickSize=280960b mappedMem=281018368b (storeSize=280960b)
+19:58:58.605 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys non clean shutdown detected
+19:58:58.606 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=2 brickSize=1026b mappedMem=1048576b (storeSize=2052b)
+19:58:58.614 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index non clean shutdown detected
+19:58:58.614 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=1 brickSize=1044b mappedMem=1048576b (storeSize=1044b)
+19:58:58.617 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays non clean shutdown detected
+19:58:58.617 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+19:58:58.624 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db non clean shutdown detected
+19:58:58.624 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=1 brickSize=330296b mappedMem=330301440b (storeSize=330296b)
+19:58:58.626 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db non clean shutdown detected
+19:58:58.626 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=1 brickSize=404745b mappedMem=404750336b (storeSize=404745b)
+19:58:58.628 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db non clean shutdown detected
+19:58:58.628 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=1 brickSize=91224b mappedMem=91226112b (storeSize=91224b)
+19:58:58.638 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore non clean shutdown detected
+19:58:58.638 [main] INFO  neo4j.neostore - [/home/milinda/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+19:58:58.665 [main] INFO  neo4j.xafactory - Non clean shutdown detected on log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1]. Recovery started ...
+19:58:58.703 [main] INFO  neo4j.xafactory - [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] logVersion=9 with committed tx=31
+19:58:58.704 [main] INFO  neo4j.xafactory - [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] entries found=0 lastEntryPos=16
+19:58:58.704 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=9, lastTxId=-1 (recovered)
+19:58:58.704 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] sorting 0 xids
+19:58:58.705 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] checkRecoveryComplete 0 xids
+19:58:59.017 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names rebuild id generator, highId=5 defragged count=0
+19:58:59.262 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys rebuild id generator, highId=32 defragged count=0
+19:58:59.365 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index rebuild id generator, highId=31 defragged count=0
+19:58:59.509 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings rebuild id generator, highId=2 defragged count=0
+19:58:59.606 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays rebuild id generator, highId=1 defragged count=0
+19:58:59.929 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db rebuild id generator, highId=94 defragged count=0
+19:59:00.079 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db rebuild id generator, highId=22 defragged count=0
+19:59:00.225 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db rebuild id generator, highId=25 defragged count=0
+19:59:00.360 [main] INFO  neo4j.neostore - /home/milinda/neo4j-community-1.8.2/data/graph.db/neostore rebuild id generator, highId=6 defragged count=0
+19:59:00.406 [main] INFO  neo4j.xafactory - XaResourceManager[/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log] recovery completed.
+19:59:00.406 [main] INFO  neo4j.xafactory - Recovery on log [/home/milinda/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] completed.
+9/6/13 7:59:01 PM org.neo4j.server.database.Database INFO: Successfully started database
+9/6/13 7:59:01 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+9/6/13 7:59:01 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+9/6/13 7:59:02 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+9/6/13 7:59:02 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+9/6/13 7:59:02 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+9/6/13 7:59:02 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+9/6/13 7:59:02 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+9/6/13 7:59:02 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+19:59:02.512 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+9/6/13 7:59:02 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+19:59:02.590 [main] INFO  org.mortbay.log - jetty-6.1.25
+19:59:02.670 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+19:59:04.279 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+19:59:04.389 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+9/6/13 7:59:04 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@fe03b3
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) n-[:HasDatapoint]-datapoint RETURN datapoint; 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) MATCH n-[:HasDatapoint]-datapoint RETURN datapoint; 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) MATCH n-[:HasDatapoint]-datapoint WHERE datapoint.datapoint_name LIKE "datapoint" RETURN datapoint; 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) MATCH n-[:HasDatapoint]-datapoint WHERE datapoint.datapoint_name=~"datapoint.*" RETURN datapoint; 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(2) RETURN n; 
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) n-[HasData]-data Return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) n-[:HasData]-data Return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData]-data Return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@4577f9
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) MATCH n-[:HasDatapoint]-datapoint WHERE datapoint.datapoint_name=~"datapoint_1.*" RETURN datapoint; 
+9/7/13 12:01:18 AM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+00:01:18.202 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+00:01:18.203 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+9/10/13 6:21:17 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+9/10/13 6:21:18 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+18:21:18.284 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+18:21:18.372 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+18:21:18.375 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+18:21:18.376 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=256b)
+18:21:18.377 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=1 brickSize=1026b mappedMem=1048576b (storeSize=1216b)
+18:21:18.378 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=279b)
+18:21:18.379 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+18:21:18.382 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=3854b)
+18:21:18.384 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=726b)
+18:21:18.385 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=225b)
+18:21:18.386 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+18:21:18.406 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=10, lastTxId=31 (clean)
+9/10/13 6:21:19 PM org.neo4j.server.database.Database INFO: Successfully started database
+9/10/13 6:21:19 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+9/10/13 6:21:19 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+9/10/13 6:21:19 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+9/10/13 6:21:20 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+9/10/13 6:21:20 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+9/10/13 6:21:20 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+9/10/13 6:21:20 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+9/10/13 6:21:20 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+18:21:20.191 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+9/10/13 6:21:20 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+18:21:20.269 [main] INFO  org.mortbay.log - jetty-6.1.25
+18:21:20.351 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+18:21:21.796 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+18:21:21.891 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+9/10/13 6:21:21 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@20ea6c
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) n-[:HasData*]->data return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(1) MATCH n-[:HasData*]->data return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) MATCH n-[:HasData*]->data return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) return data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) return n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) return n;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) return n as data;
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@1f40e1f
+Logger not configured, logging to std out instead: [FINE] START n=NODE(4) RETURN n AS data;
+9/10/13 7:11:08 PM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+19:11:08.068 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+19:11:08.070 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474
+9/10/13 7:11:33 PM org.neo4j.server.CommunityBootstrapper WARNING: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+9/10/13 7:11:33 PM org.neo4j.server.database.Database INFO: Loaded neo4j tuning properties from conf/neo4j.properties
+19:11:33.567 [main] INFO  neo4j - WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+19:11:33.642 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+19:11:33.646 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+19:11:33.646 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=512b)
+19:11:33.647 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=1026b mappedMem=1048576b (storeSize=228b)
+19:11:33.648 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index] brickCount=0 brickSize=1044b mappedMem=1048576b (storeSize=45b)
+19:11:33.649 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+19:11:33.653 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db] brickCount=0 brickSize=330296b mappedMem=330301440b (storeSize=287b)
+19:11:33.655 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db] brickCount=0 brickSize=404745b mappedMem=404750336b (storeSize=99b)
+19:11:33.657 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=45b)
+19:11:33.658 [main] INFO  neo4j.neostore - [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+19:11:33.682 [main] INFO  neo4j.xafactory - Opened logical log [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log.1] version=1, lastTxId=5 (clean)
+9/10/13 7:11:34 PM org.neo4j.server.database.Database INFO: Successfully started database
+9/10/13 7:11:34 PM org.neo4j.server.AbstractNeoServer INFO: Starting Neo Server on port [7474] with [40] threads available
+9/10/13 7:11:34 PM org.neo4j.server.AbstractNeoServer INFO: Enabling HTTPS on port [7473]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.discovery] at [/]
+9/10/13 7:11:35 PM org.neo4j.server.modules.DiscoveryModule INFO: Mounted discovery module at [/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.rest.web] at [/db/data]
+9/10/13 7:11:35 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "CypherPlugin"
+9/10/13 7:11:35 PM org.neo4j.server.plugins.PluginManager INFO: Loaded server plugin "GremlinPlugin"
+9/10/13 7:11:35 PM org.neo4j.server.modules.RESTApiModule INFO: Mounted REST API at [/db/data/]
+Logger not configured, logging to std out instead: [FINE] Adding JAXRS packages [org.neo4j.server.webadmin.rest] at [/db/manage]
+9/10/13 7:11:35 PM org.neo4j.server.modules.ManagementApiModule INFO: Mounted management API at [/db/manage/]
+9/10/13 7:11:35 PM org.neo4j.server.modules.WebAdminModule INFO: Mounted webadmin at [/webadmin]
+19:11:35.384 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+9/10/13 7:11:35 PM org.neo4j.server.web.Jetty6WebServer INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Found [jar:file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html]
+Logger not configured, logging to std out instead: [FINE] Mounting static content from [jar:file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar!/webadmin-html] at [/webadmin]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/manage]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/db/data]
+Logger not configured, logging to std out instead: [FINE] Mounting servlet at [/]
+19:11:35.434 [main] INFO  org.mortbay.log - jetty-6.1.25
+19:11:35.509 [main] INFO  org.mortbay.log - NO JSP Support for /webadmin, did not find org.apache.jasper.servlet.JspServlet
+19:11:37.017 [main] INFO  org.mortbay.log - Started SelectChannelConnector@localhost:7474
+19:11:37.110 [main] INFO  org.mortbay.log - Started SslSocketConnector@localhost:7473
+9/10/13 7:11:37 PM org.neo4j.server.AbstractNeoServer INFO: Server started on [http://localhost:7474/]
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@9da1dd
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.console.GremlinSession@130b97d
+Logger not configured, logging to std out instead: [FINEST] org.neo4j.server.webadmin.rest.ShellSession@9da1dd
+Logger not configured, logging to std out instead: [FINE] START n=NODE(*) RETURN n;
+9/10/13 7:18:58 PM org.neo4j.server.CommunityBootstrapper INFO: Neo4j Server shutdown initiated by kill signal
+19:18:58.301 [Thread-7] INFO  org.mortbay.log - Stopped SslSocketConnector@localhost:7473
+19:18:58.303 [Thread-7] INFO  org.mortbay.log - Stopped SelectChannelConnector@localhost:7474

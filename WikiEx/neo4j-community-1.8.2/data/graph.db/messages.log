@@ -1,0 +1,720 @@
+2013-09-10 13:40:33.558+0000: WARNING! You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 6.
+2013-09-10 13:40:33.661+0000: Creating new db @ /home/milinda/Desktop/TEST/neostore
+2013-09-10 13:40:33.917+0000: [/home/milinda/Desktop/TEST/neostore.nodestore.db] brickCount=0 brickSize=912258b mappedMem=91226112b (storeSize=0b)
+2013-09-10 13:40:33.994+0000: /home/milinda/Desktop/TEST/neostore.nodestore.db hit=1 miss=0 switches=0 ooe=0
+2013-09-10 13:40:35.232+0000: [/home/milinda/Desktop/TEST/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2013-09-10 13:40:35.242+0000: [/home/milinda/Desktop/TEST/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2013-09-10 13:40:35.293+0000: /home/milinda/Desktop/TEST/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:35.393+0000: /home/milinda/Desktop/TEST/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:35.506+0000: [/home/milinda/Desktop/TEST/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2013-09-10 13:40:35.507+0000: [/home/milinda/Desktop/TEST/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2013-09-10 13:40:35.508+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=128b)
+2013-09-10 13:40:35.509+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.index.keys] brickCount=0 brickSize=1026b mappedMem=1048576b (storeSize=38b)
+2013-09-10 13:40:35.513+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.index] brickCount=0 brickSize=10485b mappedMem=1048576b (storeSize=0b)
+2013-09-10 13:40:35.516+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+2013-09-10 13:40:35.528+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db] brickCount=0 brickSize=3303001b mappedMem=330301440b (storeSize=0b)
+2013-09-10 13:40:35.531+0000: [/home/milinda/Desktop/TEST/neostore.relationshipstore.db] brickCount=0 brickSize=4047483b mappedMem=404750336b (storeSize=0b)
+2013-09-10 13:40:35.532+0000: [/home/milinda/Desktop/TEST/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=9b)
+2013-09-10 13:40:35.532+0000: [/home/milinda/Desktop/TEST/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2013-09-10 13:40:35.593+0000: /home/milinda/Desktop/TEST/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:35.693+0000: /home/milinda/Desktop/TEST/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:35.819+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:35.945+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:36.048+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:36.174+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:36.258+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:36.371+0000: /home/milinda/Desktop/TEST/neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:36.506+0000: /home/milinda/Desktop/TEST/neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:36.693+0000: /home/milinda/Desktop/TEST/neostore hit=0 miss=8 switches=0 ooe=0
+2013-09-10 13:40:36.812+0000: [/home/milinda/Desktop/TEST/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2013-09-10 13:40:36.813+0000: [/home/milinda/Desktop/TEST/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2013-09-10 13:40:36.814+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.strings] brickCount=0 brickSize=280960b mappedMem=281018368b (storeSize=128b)
+2013-09-10 13:40:36.814+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.index.keys] brickCount=0 brickSize=1026b mappedMem=1048576b (storeSize=38b)
+2013-09-10 13:40:36.815+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.index] brickCount=0 brickSize=10485b mappedMem=1048576b (storeSize=0b)
+2013-09-10 13:40:36.815+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db.arrays] brickCount=0 brickSize=317696b mappedMem=317718528b (storeSize=128b)
+2013-09-10 13:40:36.815+0000: [/home/milinda/Desktop/TEST/neostore.propertystore.db] brickCount=0 brickSize=3303001b mappedMem=330301440b (storeSize=0b)
+2013-09-10 13:40:36.816+0000: [/home/milinda/Desktop/TEST/neostore.relationshipstore.db] brickCount=0 brickSize=4047483b mappedMem=404750336b (storeSize=0b)
+2013-09-10 13:40:36.816+0000: [/home/milinda/Desktop/TEST/neostore.nodestore.db] brickCount=0 brickSize=91224b mappedMem=91226112b (storeSize=9b)
+2013-09-10 13:40:36.817+0000: [/home/milinda/Desktop/TEST/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=54b)
+2013-09-10 13:40:36.834+0000: Opened logical log [/home/milinda/Desktop/TEST/nioneo_logical.log.1] version=0, lastTxId=1 (clean)
+2013-09-10 13:40:36.918+0000: TM new log: tm_tx_log.1
+2013-09-10 13:40:37.002+0000: Opened logical log [/home/milinda/Desktop/TEST/index/lucene.log.1] version=0, lastTxId=1 (clean)
+2013-09-10 13:40:37.058+0000: --- STARTUP diagnostics START ---
+2013-09-10 13:40:37.061+0000: Neo4j Kernel properties:
+    forced_kernel_id=
+    read_only=false
+    neo4j.ext.udc.host=udc.neo4j.org
+    logical_log=nioneo_logical.log
+    node_auto_indexing=false
+    intercept_committing_transactions=false
+    remote_shell_name=shell
+    cache_type=soft
+    intercept_deserialized_transactions=false
+    lucene_searcher_cache_size=2147483647
+    neo4j.ext.udc.interval=86400000
+    use_memory_mapped_buffers=true
+    rebuild_idgenerators_fast=true
+    neostore.propertystore.db.index.keys.mapped_memory=1M
+    neostore.propertystore.db.arrays.mapped_memory=303M
+    neostore.propertystore.db.strings.mapped_memory=268M
+    log_mapped_memory_stats_filename=mapped_memory_stats.log
+    log_mapped_memory_stats_interval=1000000
+    gcr_cache_min_log_interval=60s
+    relationship_grab_size=100
+    relationship_auto_indexing=false
+    remote_shell_read_only=false
+    node_cache_array_fraction=1.0
+    allow_store_upgrade=false
+    execution_guard_enabled=false
+    relationship_cache_array_fraction=1.0
+    store_dir=/home/milinda/Desktop/TEST
+    remote_logging_host=127.0.0.1
+    online_backup_enabled=false
+    remote_logging_port=4560
+    gc_monitor_threshold=200ms
+    array_block_size=120
+    load_kernel_extensions=true
+    neostore.relationshipstore.db.mapped_memory=386M
+    keep_logical_logs=true
+    dump_configuration=false
+    gc_monitor_wait_time=100ms
+    neostore.nodestore.db.mapped_memory=87M
+    neo4j.ext.udc.first_delay=600000
+    remote_shell_enabled=false
+    neo4j.ext.udc.reg=unreg
+    remote_shell_port=1337
+    ephemeral=false
+    log_mapped_memory_stats=false
+    neo_store=neostore
+    mapped_memory_page_size=1M
+    query_cache_size=100
+    logging.threshold_for_rotation=104857600
+    neostore.propertystore.db.index.mapped_memory=1M
+    backup_slave=false
+    neostore.propertystore.db.mapped_memory=315M
+    string_block_size=120
+    grab_file_lock=true
+    remote_logging_enabled=false
+    neo4j.ext.udc.enabled=true
+    all_stores_total_mapped_memory_size=500M
+    online_backup_port=6362
+2013-09-10 13:40:37.069+0000: Diagnostics providers:
+    org.neo4j.kernel.configuration.Config
+    org.neo4j.kernel.info.DiagnosticsManager
+    SYSTEM_MEMORY
+    JAVA_MEMORY
+    OPERATING_SYSTEM
+    JAVA_VIRTUAL_MACHINE
+    CLASSPATH
+    LIBRARY_PATH
+    SYSTEM_PROPERTIES
+    LINUX_SCHEDULERS
+    NETWORK
+2013-09-10 13:40:37.070+0000: System memory information:
+    Total Physical memory: 3.80 GB
+    Free Physical memory: 172.41 MB
+    Committed virtual memory: 1.22 GB
+    Total swap space: 256.00 MB
+    Free swap space: 255.60 MB
+2013-09-10 13:40:37.075+0000: JVM memory information:
+    Free  memory: 50.29 MB
+    Total memory: 58.38 MB
+    Max   memory: 865.81 MB
+    Garbage Collector: PS Scavenge: [PS Eden Space, PS Survivor Space]
+    Garbage Collector: PS MarkSweep: [PS Eden Space, PS Survivor Space, PS Old Gen, PS Perm Gen]
+    Memory Pool: Code Cache (Non-heap memory): committed=2.25 MB, used=369.00 kB, max=48.00 MB, threshold=0.00 B
+    Memory Pool: PS Eden Space (Heap memory): committed=15.25 MB, used=5.10 MB, max=319.63 MB, threshold=?
+    Memory Pool: PS Survivor Space (Heap memory): committed=2.50 MB, used=2.50 MB, max=2.50 MB, threshold=?
+    Memory Pool: PS Old Gen (Heap memory): committed=40.63 MB, used=496.80 kB, max=649.38 MB, threshold=0.00 B
+    Memory Pool: PS Perm Gen (Non-heap memory): committed=16.00 MB, used=5.57 MB, max=128.00 MB, threshold=0.00 B
+2013-09-10 13:40:37.083+0000: Operating system information:
+    Operating System: Linux; version: 3.2.0-53-generic-pae; arch: i386; cpus: 4
+    Max number of file descriptors: 4096
+    Number of open file descriptors: 59
+    Process id: 5215@ubuntu
+    Byte order: LITTLE_ENDIAN
+    Local timezone: Asia/Colombo
+2013-09-10 13:40:37.092+0000: JVM information:
+    VM Name: OpenJDK Server VM
+    VM Vendor: Oracle Corporation
+    VM Version: 23.7-b01
+    JIT compiler: HotSpot Tiered Compilers
+    VM Arguments: [-Dfile.encoding=UTF-8]
+2013-09-10 13:40:37.093+0000: Java classpath:
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/plugin.jar
+     [loader.1] file:/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/sunpkcs11.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/concurrentlinkedhashmap-lru-1.3.1.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/classes
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-shell-1.8.2.jar
+     [classpath + loader.0] file:/home/milinda/.eclipse/org.eclipse.platform_3.7.0_155965261/configuration/org.eclipse.osgi/bundles/235/1/.cp/
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-udc-1.8.2.jar
+     [loader.1] file:/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/localedata.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-lucene-index-1.8.2.jar
+     [loader.1] file:/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/dnsns.jar
+     [classpath + loader.0] file:/home/milinda/.eclipse/org.eclipse.platform_3.7.0_155965261/configuration/org.eclipse.osgi/bundles/234/1/.cp/
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/scala-library-2.9.1-1.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/jsse.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/netx.jar
+     [loader.1] file:/usr/share/java/java-atk-wrapper.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/jce.jar
+     [classpath + loader.0] file:/usr/share/java/junit4-4.8.2.jar
+     [classpath + loader.0] file:/usr/share/java/hamcrest-core-1.1.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-kernel-1.8.2.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-cypher-1.8.2.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/org.apache.servicemix.bundles.jline-0.9.94_1.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-graph-algo-1.8.2.jar
+     [loader.1] file:/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/sunjce_provider.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar
+     [classpath + loader.0] file:/home/milinda/.eclipse/org.eclipse.platform_3.7.0_155965261/configuration/org.eclipse.osgi/bundles/236/1/.cp/
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/rhino.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/jfr.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/geronimo-jta_1.1_spec-1.1.1.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/lucene-core-3.5.0.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/bin/
+     [loader.1] file:/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/pulse-java.jar
+     [loader.1] file:/usr/lib/i386-linux-gnu/jni/libatk-wrapper.so.0.0.18
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-jmx-1.8.2.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/server-api-1.8.2.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/charsets.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-i386/jre/lib/sunrsasign.jar
+     [bootstrap] /usr/lib/jvm/java-7-openjdk-common/jre/lib/resources.jar
+     [loader.1] file:/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/zipfs.jar
+     [classpath + loader.0] file:/home/milinda/workspace/WikiEx/Neo4jLib/neo4j-graph-matching-1.8.2.jar
+2013-09-10 13:40:37.099+0000: Library path:
+    /usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386/server
+    /usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386
+    /usr/lib/jvm/java-7-openjdk-i386/lib/i386
+    /usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386/client
+    /usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386
+    /home/milinda/workspace/WikiEx
+    /usr/java/packages/lib/i386
+    /usr/lib/jni
+    /lib
+    /usr/lib
+2013-09-10 13:40:37.100+0000: System.properties:
+    sun.boot.library.path = /usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386
+    path.separator = :
+    file.encoding.pkg = sun.io
+    user.country = US
+    sun.java.launcher = SUN_STANDARD
+    sun.os.patch.level = unknown
+    user.dir = /home/milinda/workspace/WikiEx
+    sun.jnu.encoding = UTF-8
+    sun.management.compiler = HotSpot Tiered Compilers
+    user.home = /home/milinda
+    user.timezone = Asia/Colombo
+    file.encoding = UTF-8
+    user.name = milinda
+    sun.java.command = org.eclipse.jdt.internal.junit.runner.RemoteTestRunner -version 3 -port 44818 -testLoaderClass org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader -loaderpluginname org.eclipse.jdt.junit4.runtime -test Neo4StoredProcedures.Neo4jStoredProcedureTest:tetsAddPageToDataBase
+    sun.arch.data.model = 32
+    user.language = en
+    awt.toolkit = sun.awt.X11.XToolkit
+    file.separator = /
+    sun.io.unicode.encoding = UnicodeLittle
+    sun.cpu.endian = little
+    sun.desktop = gnome
+    sun.cpu.isalist = 
+2013-09-10 13:40:37.102+0000: Linux scheduler information:
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    none
+    noop deadline [cfq] 
+    noop deadline [cfq] 
+    noop deadline [cfq] 
+2013-09-10 13:40:37.108+0000: Network information:
+    Interface wlan0:
+        address: fe80:0:0:0:1e3e:84ff:fe3b:4a3%3
+        address: 10.8.108.236
+    Interface lo:
+        address: 0:0:0:0:0:0:0:1%1
+        address: 127.0.0.1
+2013-09-10 13:40:37.111+0000: --- STARTUP diagnostics END ---
+2013-09-10 13:40:37.115+0000: Recovery completed, all transactions have been resolved to a consistent state.
+2013-09-10 13:40:37.216+0000: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+2013-09-10 13:40:37.222+0000: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+2013-09-10 13:40:37.223+0000: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+2013-09-10 13:40:37.226+0000: --- STARTUP diagnostics for KernelDiagnostics:Versions START ---
+2013-09-10 13:40:37.226+0000: Graph Database: org.neo4j.kernel.EmbeddedGraphDatabase StoreId[time:1378820433662, id:5533016941212595720, store version: 13561656364791302]
+2013-09-10 13:40:37.227+0000: Kernel version: Neo4j - Graph Database Kernel 1.8.2
+2013-09-10 13:40:37.227+0000: Neo4j component versions:
+2013-09-10 13:40:37.228+0000:   Neo4j - Graph Database Kernel 1.8.2
+2013-09-10 13:40:37.228+0000: --- STARTUP diagnostics for KernelDiagnostics:Versions END ---
+2013-09-10 13:40:37.231+0000: --- STARTUP diagnostics for NEO_STORE_VERSIONS START ---
+2013-09-10 13:40:37.231+0000: Store versions:
+    Store versions:
+      NeoStore v0.A.0
+      NodeStore v0.A.0
+      RelationshipStore v0.A.0
+      RelationshipTypeStore v0.A.0
+      PropertyStore v0.A.0
+      PropertyIndexStore v0.A.0
+      StringPropertyStore v0.A.0
+      ArrayPropertyStore v0.A.0
+2013-09-10 13:40:37.231+0000: --- STARTUP diagnostics for NEO_STORE_VERSIONS END ---
+2013-09-10 13:40:37.231+0000: --- STARTUP diagnostics for NEO_STORE_ID_USAGE START ---
+2013-09-10 13:40:37.231+0000: Id usage:
+    Id usage:
+      NodeStore: used=1 high=0
+      RelationshipStore: used=0 high=-1
+      RelationshipTypeStore: used=0 high=-1
+      PropertyStore: used=0 high=-1
+      PropertyIndexStore: used=0 high=-1
+      StringPropertyStore: used=1 high=0
+      ArrayPropertyStore: used=1 high=0
+2013-09-10 13:40:37.232+0000: --- STARTUP diagnostics for NEO_STORE_ID_USAGE END ---
+2013-09-10 13:40:37.232+0000: --- STARTUP diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2013-09-10 13:40:37.232+0000: --- STARTUP diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2013-09-10 13:40:37.233+0000: --- STARTUP diagnostics for KernelDiagnostics:StoreFiles START ---
+2013-09-10 13:40:37.233+0000: Disk space on partition (Total / Free / Free %): 25538187264 / 11869028352 / 53
+Storage files: (filename : modification date - size)
+      neostore.propertystore.db: 2013-09-10T19:10:36+0530 - 0.00 B
+      neostore.relationshiptypestore.db.names.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      lock: 2013-09-10T19:10:36+0530 - 0.00 B
+      neostore.relationshiptypestore.db: 2013-09-10T19:10:36+0530 - 0.00 B
+      neostore.propertystore.db.arrays.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      messages.log: 2013-09-10T19:10:37+0530 - 16.58 kB
+      neostore.propertystore.db.strings.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      neostore.relationshiptypestore.db.names: 2013-09-10T19:10:36+0530 - 38.00 B
+      neostore.propertystore.db.strings: 2013-09-10T19:10:36+0530 - 128.00 B
+      nioneo_logical.log.1: 2013-09-10T19:10:36+0530 - 16.00 B
+      store_lock: 2013-09-10T19:10:33+0530 - 0.00 B
+      neostore.relationshipstore.db: 2013-09-10T19:10:36+0530 - 0.00 B
+      neostore.propertystore.db.arrays: 2013-09-10T19:10:36+0530 - 128.00 B
+      neostore.propertystore.db.index.keys: 2013-09-10T19:10:36+0530 - 38.00 B
+      neostore: 2013-09-10T19:10:36+0530 - 54.00 B
+      neostore.nodestore.db.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      neostore.propertystore.db.index: 2013-09-10T19:10:36+0530 - 0.00 B
+      neostore.propertystore.db.index.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      tm_tx_log.1: 2013-09-10T19:10:37+0530 - 0.00 B
+      neostore.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      neostore.nodestore.db: 2013-09-10T19:10:36+0530 - 9.00 B
+      neostore.propertystore.db.index.keys.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      neostore.relationshiptypestore.db.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      nioneo_logical.log.active: 2013-09-10T19:10:36+0530 - 4.00 B
+      neostore.propertystore.db.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      active_tx_log: 2013-09-10T19:10:36+0530 - 11.00 B
+      neostore.relationshipstore.db.id: 2013-09-10T19:10:36+0530 - 9.00 B
+      index:
+        lucene.log.active: 2013-09-10T19:10:36+0530 - 4.00 B
+        lucene-store.db: 2013-09-10T19:10:36+0530 - 40.00 B
+        lucene.log.1: 2013-09-10T19:10:36+0530 - 16.00 B
+      - Total: 2013-09-10T19:10:36+0530 - 60.00 B
+2013-09-10 13:40:37.243+0000: --- STARTUP diagnostics for KernelDiagnostics:StoreFiles END ---
+2013-09-10 13:40:37.244+0000: Started - database is now available
+2013-09-10 13:40:37.244+0000: GC Monitor started. 
+2013-09-10 13:40:39.155+0000: Stopping - database is now unavailable
+2013-09-10 13:40:39.215+0000: TM shutting down
+2013-09-10 13:40:39.256+0000: GC Monitor stopped. 
+2013-09-10 13:40:39.301+0000: Closed log /home/milinda/Desktop/TEST/index/lucene.log
+2013-09-10 13:40:39.724+0000: Closed log /home/milinda/Desktop/TEST/nioneo_logical.log
+2013-09-10 13:40:39.724+0000: /home/milinda/Desktop/TEST/neostore.relationshiptypestore.db.names hit=0 miss=1 switches=0 ooe=0
+2013-09-10 13:40:39.819+0000: /home/milinda/Desktop/TEST/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2013-09-10 13:40:39.927+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.strings hit=3 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.038+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.index.keys hit=5 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.149+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.index hit=5 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.282+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.394+0000: /home/milinda/Desktop/TEST/neostore.propertystore.db hit=7 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.520+0000: /home/milinda/Desktop/TEST/neostore.relationshipstore.db hit=5 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.653+0000: /home/milinda/Desktop/TEST/neostore.nodestore.db hit=8 miss=0 switches=0 ooe=0
+2013-09-10 13:40:40.820+0000: /home/milinda/Desktop/TEST/neostore hit=0 miss=20 switches=0 ooe=0
+2013-09-10 13:40:40.942+0000: NeoStore closed
+2013-09-10 13:40:40.942+0000: --- SHUTDOWN diagnostics START ---
+2013-09-10 13:40:40.942+0000: --- SHUTDOWN diagnostics END ---
+2013-09-10 19:11:34,372 INFO  [neo4j.txmanager]: TM opening log: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/tm_tx_log.1
+2013-09-10 19:11:34,391 INFO  [neo4j.xafactory]: Opened logical log [/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/index/lucene.log.1] version=1, lastTxId=1 (clean)
+2013-09-10 19:11:34,456 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics START ---
+2013-09-10 19:11:34,460 DEBUG [neo4j.diagnostics]: Neo4j Kernel properties:
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: forced_kernel_id=
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: read_only=false
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: neo4j.ext.udc.host=udc.neo4j.org
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: logical_log=nioneo_logical.log
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: node_auto_indexing=false
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: intercept_committing_transactions=false
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: remote_shell_name=shell
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: cache_type=soft
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: intercept_deserialized_transactions=false
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: lucene_searcher_cache_size=2147483647
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: neo4j.ext.udc.interval=86400000
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: use_memory_mapped_buffers=true
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: rebuild_idgenerators_fast=true
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: neostore.propertystore.db.index.keys.mapped_memory=1M
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: neostore.propertystore.db.arrays.mapped_memory=303M
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: neostore.propertystore.db.strings.mapped_memory=268M
+2013-09-10 19:11:34,463 DEBUG [neo4j.diagnostics]: log_mapped_memory_stats_filename=mapped_memory_stats.log
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: log_mapped_memory_stats_interval=1000000
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: gcr_cache_min_log_interval=60s
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: relationship_grab_size=100
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: relationship_auto_indexing=false
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: remote_shell_read_only=false
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: node_cache_array_fraction=1.0
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: allow_store_upgrade=false
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: execution_guard_enabled=false
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: relationship_cache_array_fraction=1.0
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: store_dir=data/graph.db
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: remote_logging_host=127.0.0.1
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: online_backup_enabled=false
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: remote_logging_port=4560
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: gc_monitor_threshold=200ms
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: array_block_size=120
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: load_kernel_extensions=true
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: neostore.relationshipstore.db.mapped_memory=386M
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: keep_logical_logs=true
+2013-09-10 19:11:34,464 DEBUG [neo4j.diagnostics]: dump_configuration=false
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: gc_monitor_wait_time=100ms
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neostore.nodestore.db.mapped_memory=87M
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neo4j.ext.udc.first_delay=600000
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: remote_shell_enabled=true
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neo4j.ext.udc.reg=unreg
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: remote_shell_port=1337
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: ephemeral=false
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: log_mapped_memory_stats=false
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neo_store=neostore
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: mapped_memory_page_size=1M
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: query_cache_size=100
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: logging.threshold_for_rotation=104857600
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neostore.propertystore.db.index.mapped_memory=1M
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: backup_slave=false
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neostore.propertystore.db.mapped_memory=315M
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: string_block_size=120
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: grab_file_lock=true
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: remote_logging_enabled=false
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: neo4j.ext.udc.enabled=true
+2013-09-10 19:11:34,465 DEBUG [neo4j.diagnostics]: all_stores_total_mapped_memory_size=500M
+2013-09-10 19:11:34,466 DEBUG [neo4j.diagnostics]: online_backup_port=6362
+2013-09-10 19:11:34,466 DEBUG [neo4j.diagnostics]: neo4j.ext.udc.source=server
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: Diagnostics providers:
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: org.neo4j.kernel.configuration.Config
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: org.neo4j.kernel.info.DiagnosticsManager
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: SYSTEM_MEMORY
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: JAVA_MEMORY
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: OPERATING_SYSTEM
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: JAVA_VIRTUAL_MACHINE
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: CLASSPATH
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: LIBRARY_PATH
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: SYSTEM_PROPERTIES
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: LINUX_SCHEDULERS
+2013-09-10 19:11:34,467 DEBUG [neo4j.diagnostics]: NETWORK
+2013-09-10 19:11:34,468 DEBUG [neo4j.diagnostics]: System memory information:
+2013-09-10 19:11:34,474 DEBUG [neo4j.diagnostics]: Total Physical memory: 3.80 GB
+2013-09-10 19:11:34,475 DEBUG [neo4j.diagnostics]: Free Physical memory: 502.11 MB
+2013-09-10 19:11:34,475 DEBUG [neo4j.diagnostics]: Committed virtual memory: 1.17 GB
+2013-09-10 19:11:34,475 DEBUG [neo4j.diagnostics]: Total swap space: 256.00 MB
+2013-09-10 19:11:34,475 DEBUG [neo4j.diagnostics]: Free swap space: 255.60 MB
+2013-09-10 19:11:34,476 DEBUG [neo4j.diagnostics]: JVM memory information:
+2013-09-10 19:11:34,476 DEBUG [neo4j.diagnostics]: Free  memory: 43.36 MB
+2013-09-10 19:11:34,476 DEBUG [neo4j.diagnostics]: Total memory: 58.38 MB
+2013-09-10 19:11:34,477 DEBUG [neo4j.diagnostics]: Max   memory: 865.81 MB
+2013-09-10 19:11:34,478 DEBUG [neo4j.diagnostics]: Garbage Collector: PS Scavenge: [PS Eden Space, PS Survivor Space]
+2013-09-10 19:11:34,478 DEBUG [neo4j.diagnostics]: Garbage Collector: PS MarkSweep: [PS Eden Space, PS Survivor Space, PS Old Gen, PS Perm Gen]
+2013-09-10 19:11:34,479 DEBUG [neo4j.diagnostics]: Memory Pool: Code Cache (Non-heap memory): committed=2.25 MB, used=482.13 kB, max=48.00 MB, threshold=0.00 B
+2013-09-10 19:11:34,480 DEBUG [neo4j.diagnostics]: Memory Pool: PS Eden Space (Heap memory): committed=15.25 MB, used=13.94 MB, max=319.63 MB, threshold=?
+2013-09-10 19:11:34,480 DEBUG [neo4j.diagnostics]: Memory Pool: PS Survivor Space (Heap memory): committed=2.50 MB, used=1.07 MB, max=2.50 MB, threshold=?
+2013-09-10 19:11:34,481 DEBUG [neo4j.diagnostics]: Memory Pool: PS Old Gen (Heap memory): committed=40.63 MB, used=0.00 B, max=649.38 MB, threshold=0.00 B
+2013-09-10 19:11:34,481 DEBUG [neo4j.diagnostics]: Memory Pool: PS Perm Gen (Non-heap memory): committed=16.00 MB, used=10.52 MB, max=128.00 MB, threshold=0.00 B
+2013-09-10 19:11:34,481 DEBUG [neo4j.diagnostics]: Operating system information:
+2013-09-10 19:11:34,482 DEBUG [neo4j.diagnostics]: Operating System: Linux; version: 3.2.0-53-generic-pae; arch: i386; cpus: 4
+2013-09-10 19:11:34,482 DEBUG [neo4j.diagnostics]: Max number of file descriptors: 4096
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: Number of open file descriptors: 104
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: Process id: 5443@ubuntu
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: Byte order: LITTLE_ENDIAN
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: Local timezone: Asia/Colombo
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: JVM information:
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: VM Name: OpenJDK Server VM
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: VM Vendor: Sun Microsystems Inc.
+2013-09-10 19:11:34,483 DEBUG [neo4j.diagnostics]: VM Version: 20.0-b12
+2013-09-10 19:11:34,484 DEBUG [neo4j.diagnostics]: JIT compiler: HotSpot Tiered Compilers
+2013-09-10 19:11:34,484 DEBUG [neo4j.diagnostics]: VM Arguments: [-XX:+DisableExplicitGC, -Dorg.neo4j.server.properties=conf/neo4j-server.properties, -Djava.util.logging.config.file=conf/logging.properties, -Dfile.encoding=UTF-8, -Dlog4j.configuration=file:conf/log4j.properties, -Dorg.neo4j.server.properties=/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/conf/neo4j-server.properties, -Djava.util.logging.config.file=/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/conf/logging.properties, -Dneo4j.home=/home/milinda/workspace/WikiEx/neo4j-community-1.8.2, -Dneo4j.instance=/home/milinda/workspace/WikiEx/neo4j-community-1.8.2]
+2013-09-10 19:11:34,484 DEBUG [neo4j.diagnostics]: Java classpath:
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/asm-util-3.2.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/asm-commons-3.2.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/localedata.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/modules/jdk.boot.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/sunjce_provider.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-digester-1.8.1.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/scala-library-2.9.1-1.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-lang-2.4.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-collections-3.2.1.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/asm-analysis-3.2.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/blueprints-core-1.2.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/plugin.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/classes
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/sunrsasign.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/share/java/java-atk-wrapper.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/server-api-1.8.2.jar
+2013-09-10 19:11:34,488 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/concurrentlinkedhashmap-lru-1.3.1.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/mimepull-1.6.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jersey-multipart-1.9.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-common/jre/lib/resources.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/pipes-1.0.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jackson-core-asl-1.9.7.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/groovy-1.8.5.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-udc-1.8.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-graph-algo-1.8.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-gremlin-plugin-1.8.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-cypher-1.8.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-lucene-index-1.8.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jansi-1.5.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/rrd4j-2.0.7.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/janino-2.5.10.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/bcprov-jdk16-140.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/slf4j-api-1.6.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/asm-3.1.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/asm-tree-3.2.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jackson-jaxrs-1.9.7.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/jce.jar
+2013-09-10 19:11:34,489 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/lucene-core-3.5.0.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jsr311-api-1.1.2.r612.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-configuration-1.6.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jcl-over-slf4j-1.6.1.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/netx.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-cypher-plugin-1.8.2.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-beanutils-1.8.0.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/gremlin-groovy-1.5.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-beanutils-core-1.8.0.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/logback-classic-0.9.30.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/conf/
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-logging-1.1.1.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jetty-util-6.1.25.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-jmx-1.8.2.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/sunpkcs11.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/org.apache.servicemix.bundles.jline-0.9.94_1.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jersey-core-1.9.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/jsse.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/rt.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jackson-mapper-asl-1.9.7.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jettison-1.3.jar
+2013-09-10 19:11:34,490 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-kernel-1.8.2.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/charsets.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-graph-matching-1.8.2.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/geronimo-jta_1.1_spec-1.1.1.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/antlr-2.7.7.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/lib/neo4j-shell-1.8.2.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/stax-api-1.0.1.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/pulse-java.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/commons-io-1.4.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/servlet-api-2.5-20081211.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [bootstrap] /usr/lib/jvm/java-6-openjdk-i386/jre/lib/rhino.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/gremlin-java-1.5.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/lib/i386-linux-gnu/jni/libatk-wrapper.so.0.0.18
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/logback-core-0.9.30.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jetty-6.1.25.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [loader.1] file:/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/dnsns.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/neo4j-server-1.8.2-static-web.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/jersey-server-1.9.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/blueprints-neo4j-graph-1.2.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]:  [classpath + loader.0] file:/home/milinda/workspace/WikiEx/neo4j-community-1.8.2/system/lib/logback-access-0.9.30.jar
+2013-09-10 19:11:34,491 DEBUG [neo4j.diagnostics]: Library path:
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386/server
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib/jvm/java-6-openjdk-i386/lib/i386
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/java/packages/lib/i386
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib/i386-linux-gnu/jni
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /lib/i386-linux-gnu
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib/i386-linux-gnu
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib/jni
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /lib
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: /usr/lib
+2013-09-10 19:11:34,492 DEBUG [neo4j.diagnostics]: System.properties:
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: sun.boot.library.path = /usr/lib/jvm/java-6-openjdk-i386/jre/lib/i386
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: org.neo4j.server.properties = /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/conf/neo4j-server.properties
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: path.separator = :
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: file.encoding.pkg = sun.io
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: sun.java.launcher = SUN_STANDARD
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: user.country = US
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: sun.os.patch.level = unknown
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: user.dir = /home/milinda/workspace/WikiEx/neo4j-community-1.8.2
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: log4j.configuration = file:conf/log4j.properties
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: sun.jnu.encoding = UTF-8
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: sun.management.compiler = HotSpot Tiered Compilers
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: user.home = /home/milinda
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: user.timezone = Asia/Colombo
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: file.encoding = UTF-8
+2013-09-10 19:11:34,493 DEBUG [neo4j.diagnostics]: user.name = milinda
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: sun.java.command = org.neo4j.server.Bootstrapper
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: sun.arch.data.model = 32
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: user.language = en
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: file.separator = /
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: sun.io.unicode.encoding = UnicodeLittle
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: sun.cpu.endian = little
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: neo4j.instance = /home/milinda/workspace/WikiEx/neo4j-community-1.8.2
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: sun.desktop = gnome
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: neo4j.home = /home/milinda/workspace/WikiEx/neo4j-community-1.8.2
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: sun.cpu.isalist = 
+2013-09-10 19:11:34,494 DEBUG [neo4j.diagnostics]: Linux scheduler information:
+2013-09-10 19:11:34,495 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,496 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,496 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,496 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,496 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,496 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,496 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,497 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,497 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,497 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,497 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,497 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,497 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,498 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,499 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,499 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,499 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,499 DEBUG [neo4j.diagnostics]: none
+2013-09-10 19:11:34,500 DEBUG [neo4j.diagnostics]: noop deadline [cfq] 
+2013-09-10 19:11:34,500 DEBUG [neo4j.diagnostics]: noop deadline [cfq] 
+2013-09-10 19:11:34,500 DEBUG [neo4j.diagnostics]: noop deadline [cfq] 
+2013-09-10 19:11:34,500 DEBUG [neo4j.diagnostics]: Network information:
+2013-09-10 19:11:34,501 DEBUG [neo4j.diagnostics]: Interface wlan0:
+2013-09-10 19:11:34,501 DEBUG [neo4j.diagnostics]:     address: fe80:0:0:0:1e3e:84ff:fe3b:4a3%3
+2013-09-10 19:11:34,501 DEBUG [neo4j.diagnostics]:     address: 10.8.108.236
+2013-09-10 19:11:34,501 DEBUG [neo4j.diagnostics]: Interface lo:
+2013-09-10 19:11:34,502 DEBUG [neo4j.diagnostics]:     address: 0:0:0:0:0:0:0:1%1
+2013-09-10 19:11:34,502 DEBUG [neo4j.diagnostics]:     address: 127.0.0.1
+2013-09-10 19:11:34,502 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics END ---
+2013-09-10 19:11:34,506 INFO  [neo4j.txmanager]: Recovery completed, all transactions have been resolved to a consistent state.
+2013-09-10 19:11:34,584 INFO  [neo4j.extension]: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+2013-09-10 19:11:34,588 INFO  [neo4j.extension]: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+2013-09-10 19:11:34,682 INFO  [neo4j.extension]: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+2013-09-10 19:11:34,685 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for KernelDiagnostics:Versions START ---
+2013-09-10 19:11:34,685 DEBUG [neo4j.diagnostics]: Graph Database: org.neo4j.kernel.EmbeddedGraphDatabase StoreId[time:1378820433662, id:5533016941212595720, store version: 13561656364791302]
+2013-09-10 19:11:34,685 DEBUG [neo4j.diagnostics]: Kernel version: Neo4j - Graph Database Kernel 1.8.2
+2013-09-10 19:11:34,685 DEBUG [neo4j.diagnostics]: Neo4j component versions:
+2013-09-10 19:11:34,686 DEBUG [neo4j.diagnostics]:   Neo4j - Graph Database Kernel 1.8.2
+2013-09-10 19:11:34,686 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for KernelDiagnostics:Versions END ---
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for NEO_STORE_VERSIONS START ---
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]: Store versions:
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]: Store versions:
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]:   NeoStore v0.A.0
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]:   NodeStore v0.A.0
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]:   RelationshipStore v0.A.0
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]:   RelationshipTypeStore v0.A.0
+2013-09-10 19:11:34,689 DEBUG [neo4j.diagnostics]:   PropertyStore v0.A.0
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]:   PropertyIndexStore v0.A.0
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]:   StringPropertyStore v0.A.0
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]:   ArrayPropertyStore v0.A.0
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for NEO_STORE_VERSIONS END ---
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for NEO_STORE_ID_USAGE START ---
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]: Id usage:
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]: Id usage:
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]:   NodeStore: used=5 high=4
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]:   RelationshipStore: used=3 high=2
+2013-09-10 19:11:34,690 DEBUG [neo4j.diagnostics]:   RelationshipTypeStore: used=1 high=0
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]:   PropertyStore: used=7 high=6
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]:   PropertyIndexStore: used=5 high=4
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]:   StringPropertyStore: used=4 high=3
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]:   ArrayPropertyStore: used=1 high=0
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for NEO_STORE_ID_USAGE END ---
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2013-09-10 19:11:34,691 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2013-09-10 19:11:34,692 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for KernelDiagnostics:StoreFiles START ---
+2013-09-10 19:11:34,692 DEBUG [neo4j.diagnostics]: Disk space on partition (Total / Free / Free %): 25538187264 / 11869503488 / 53
+Storage files: (filename : modification date - size)
+2013-09-10 19:11:34,693 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db: 2013-09-10T19:11:33+0530 - 287.00 B
+2013-09-10 19:11:34,693 DEBUG [neo4j.diagnostics]:   neostore.relationshiptypestore.db.names.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,693 DEBUG [neo4j.diagnostics]:   lock: 2013-09-10T19:11:33+0530 - 0.00 B
+2013-09-10 19:11:34,694 DEBUG [neo4j.diagnostics]:   neostore.relationshiptypestore.db: 2013-09-10T19:11:33+0530 - 5.00 B
+2013-09-10 19:11:34,694 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.arrays.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,694 DEBUG [neo4j.diagnostics]:   messages.log: 2013-09-10T19:11:34+0530 - 51.71 kB
+2013-09-10 19:11:34,695 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.strings.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,695 DEBUG [neo4j.diagnostics]:   neostore.relationshiptypestore.db.names: 2013-09-10T19:11:33+0530 - 76.00 B
+2013-09-10 19:11:34,695 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.strings: 2013-09-10T19:11:33+0530 - 512.00 B
+2013-09-10 19:11:34,696 DEBUG [neo4j.diagnostics]:   nioneo_logical.log.1: 2013-09-10T19:11:33+0530 - 16.00 B
+2013-09-10 19:11:34,696 DEBUG [neo4j.diagnostics]:   store_lock: 2013-09-10T19:10:33+0530 - 0.00 B
+2013-09-10 19:11:34,696 DEBUG [neo4j.diagnostics]:   neostore.relationshipstore.db: 2013-09-10T19:11:33+0530 - 99.00 B
+2013-09-10 19:11:34,697 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.arrays: 2013-09-10T19:11:33+0530 - 128.00 B
+2013-09-10 19:11:34,697 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.index.keys: 2013-09-10T19:11:34+0530 - 1.00 kB
+2013-09-10 19:11:34,697 DEBUG [neo4j.diagnostics]:   neostore: 2013-09-10T19:11:33+0530 - 54.00 B
+2013-09-10 19:11:34,698 DEBUG [neo4j.diagnostics]:   neostore.nodestore.db.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,698 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.index: 2013-09-10T19:11:34+0530 - 1.02 kB
+2013-09-10 19:11:34,698 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.index.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,699 DEBUG [neo4j.diagnostics]:   tm_tx_log.1: 2013-09-10T19:11:34+0530 - 0.00 B
+2013-09-10 19:11:34,699 DEBUG [neo4j.diagnostics]:   neostore.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,699 DEBUG [neo4j.diagnostics]:   neostore.nodestore.db: 2013-09-10T19:11:33+0530 - 45.00 B
+2013-09-10 19:11:34,700 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.index.keys.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,700 DEBUG [neo4j.diagnostics]:   neostore.relationshiptypestore.db.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,700 DEBUG [neo4j.diagnostics]:   nioneo_logical.log.active: 2013-09-10T19:11:33+0530 - 4.00 B
+2013-09-10 19:11:34,701 DEBUG [neo4j.diagnostics]:   neostore.propertystore.db.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,701 DEBUG [neo4j.diagnostics]:   nioneo_logical.log.v0: 2013-09-10T19:10:39+0530 - 1.84 kB
+2013-09-10 19:11:34,701 DEBUG [neo4j.diagnostics]:   active_tx_log: 2013-09-10T19:10:36+0530 - 11.00 B
+2013-09-10 19:11:34,702 DEBUG [neo4j.diagnostics]:   neostore.relationshipstore.db.id: 2013-09-10T19:11:33+0530 - 9.00 B
+2013-09-10 19:11:34,702 DEBUG [neo4j.diagnostics]:   index:
+2013-09-10 19:11:34,702 DEBUG [neo4j.diagnostics]:     lucene.log.active: 2013-09-10T19:11:34+0530 - 4.00 B
+2013-09-10 19:11:34,702 DEBUG [neo4j.diagnostics]:     lucene-store.db: 2013-09-10T19:10:39+0530 - 40.00 B
+2013-09-10 19:11:34,703 DEBUG [neo4j.diagnostics]:     lucene.log.1: 2013-09-10T19:11:34+0530 - 16.00 B
+2013-09-10 19:11:34,703 DEBUG [neo4j.diagnostics]:     lucene.log.v0: 2013-09-10T19:10:39+0530 - 16.00 B
+2013-09-10 19:11:34,703 DEBUG [neo4j.diagnostics]:   - Total: 2013-09-10T19:11:34+0530 - 76.00 B
+2013-09-10 19:11:34,703 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for KernelDiagnostics:StoreFiles END ---
+2013-09-10 19:11:34,705 INFO  [neo4j]: Started - database is now available
+2013-09-10 19:11:34,705 INFO  [neo4j]: GC Monitor started. 
+2013-09-10 19:11:35,209 DEBUG [neo4j.diagnostics]: --- SERVER STARTUP START ---
+2013-09-10 19:11:35,209 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for org.neo4j.server.configuration.Configurator START ---
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: Server configuration:
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.database.location = data/graph.db
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webserver.port = 7474
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webserver.https.enabled = true
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webserver.https.port = 7473
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webserver.https.cert.location = conf/ssl/snakeoil.cert
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webserver.https.key.location = conf/ssl/snakeoil.key
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webserver.https.keystore.location = data/keystore
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webadmin.rrdb.location = data/rrd
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.db.tuning.properties = conf/neo4j.properties
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.http.log.enabled = false
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.http.log.config = conf/neo4j-http-logging.xml
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webadmin.management.uri = /db/manage/
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: org.neo4j.server.webadmin.data.uri = /db/data/
+2013-09-10 19:11:35,212 DEBUG [neo4j.diagnostics]: --- STARTUP diagnostics for org.neo4j.server.configuration.Configurator END ---
+2013-09-10 19:11:35,230 DEBUG [neo4j.diagnostics]: Mounted discovery module (org.neo4j.server.rest.discovery) at: /
+2013-09-10 19:11:35,269 DEBUG [neo4j.diagnostics]: Loaded server plugin "CypherPlugin" (org.neo4j.server.plugin.cypher.CypherPlugin)
+2013-09-10 19:11:35,270 DEBUG [neo4j.diagnostics]:   GraphDatabaseService.execute_query: execute a query
+2013-09-10 19:11:35,271 DEBUG [neo4j.diagnostics]: Loaded server plugin "GremlinPlugin" (org.neo4j.server.plugin.gremlin.GremlinPlugin)
+2013-09-10 19:11:35,271 DEBUG [neo4j.diagnostics]:   GraphDatabaseService.execute_script: execute a Gremlin script with 'g' set to the Neo4jGraph and 'results' containing the results. Only results of one object type is supported.
+2013-09-10 19:11:35,271 DEBUG [neo4j.diagnostics]: Mounted REST API at: /db/data/
+2013-09-10 19:11:35,272 DEBUG [neo4j.diagnostics]: Mounted management API at: /db/manage/
+2013-09-10 19:11:35,361 DEBUG [neo4j.diagnostics]: Mounted webadmin at: /webadmin
+2013-09-10 19:11:37,110 DEBUG [neo4j.diagnostics]: Server started on: http://localhost:7474/
+2013-09-10 19:11:37,111 DEBUG [neo4j.diagnostics]: --- SERVER STARTUP END ---
+2013-09-10 19:18:58,473 INFO  [neo4j]: Stopping - database is now unavailable
+2013-09-10 19:18:58,475 INFO  [neo4j.txmanager]: TM shutting down
+2013-09-10 19:18:58,510 INFO  [neo4j.xafactory]: Closed log /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/index/lucene.log
+2013-09-10 19:18:58,539 INFO  [neo4j.xafactory]: Closed log /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/nioneo_logical.log
+2013-09-10 19:18:58,540 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db.names hit=0 miss=2 switches=0 ooe=0
+2013-09-10 19:18:58,552 INFO  [neo4j]: GC Monitor stopped. 
+2013-09-10 19:18:58,712 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2013-09-10 19:18:58,819 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.strings hit=6 miss=0 switches=0 ooe=0
+2013-09-10 19:18:58,948 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index.keys hit=10 miss=0 switches=0 ooe=0
+2013-09-10 19:18:59,069 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.index hit=5 miss=0 switches=0 ooe=0
+2013-09-10 19:18:59,192 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2013-09-10 19:18:59,314 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.propertystore.db hit=8 miss=0 switches=0 ooe=0
+2013-09-10 19:18:59,436 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2013-09-10 19:18:59,558 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore.nodestore.db hit=10 miss=0 switches=0 ooe=0
+2013-09-10 19:18:59,730 INFO  [neo4j.neostore]: /home/milinda/workspace/WikiEx/neo4j-community-1.8.2/data/graph.db/neostore hit=0 miss=16 switches=0 ooe=0
+2013-09-10 19:18:59,852 INFO  [neo4j.datasource]: NeoStore closed
+2013-09-10 19:18:59,852 DEBUG [neo4j.diagnostics]: --- SHUTDOWN diagnostics START ---
+2013-09-10 19:18:59,853 DEBUG [neo4j.diagnostics]: --- SHUTDOWN diagnostics END ---
